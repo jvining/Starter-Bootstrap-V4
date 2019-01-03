@@ -1,0 +1,36 @@
+/* 
+    rgb(66, 139, 202)
+    rgb(92, 184, 92)
+    rgb(91, 192, 222)
+    rgb(240, 173, 78)
+    rgb(217, 83, 79)
+ */
+
+body {background:#fbfbfb; font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", "sans-serif";}
+body h1, body h2, body h3, body h4, body h5 {font-weight:300;}
+body [class*="col-"] {color:#5f5f5f; font-size:16px; line-height:1.75em;}
+ 
+body .jumbotron {margin-top:3.5em; margin-bottom:0;} 
+ 
+footer {background:#343a40; margin-top:50px; padding:15px 0 0 0;}
+footer [class*="col"] a {color:#999;}
+footer [class*="col"] a:hover {color:#fff;}
+
+.bg-darken-1 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .1);} .bg-darken-2 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .2);} .bg-darken-3 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .3);} 
+.bg-darken-4 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .4);} .bg-darken-5 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .5);} .bg-darken-6 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .6);} 
+.bg-darken-7 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .7);} .bg-darken-8 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .8);} .bg-darken-9 {box-shadow: inset 10000px 0 0 rgba(0, 0, 0, .9);} 
+
+.fa-lg,.fa-1x,.fa-2x,.fa-3x,.fa-4x,.fa-5x,.fa-6x,.fa-7x,.fa-8x,.fa-9x,.fa-10x {line-height:1.25em;} 
+.fa-lg {font-size:1.3em;} .fa-1x {font-size:1.5em;} .fa-2x {font-size:2.0em;} 
+.fa-3x {font-size:3.0em;} .fa-4x {font-size:4.0em;} .fa-5x {font-size:5.0em;}
+.fa-6x {font-size:6.0em;} .fa-7x {font-size:7.0em;} .fa-8x {font-size:8.0em;}
+.fa-9x {font-size:9.0em;} .fa-10x{font-size:10em;}
+
+.text-light {font-weight:300;}
+.text-normal{font-weight:400;}
+.text-bold {font-weight:700;}
+.text-shadow {text-shadow:rgba( 0, 0, 0, .25 ) .045em .045em;}
+
+.btn,.btn:hover {transition:.3s ease-in-out;}
+.btn-xl{font-size:30px;padding:8px 10px;border-radius:6px;}
+@media(max-width:768px){.btn-xl{font-size:20px;padding:8px 13px;}}
